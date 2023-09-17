@@ -18,5 +18,5 @@ cd MRINALcal
 
 ls
 
-python3 Mrinalcal.py
+python3 calc.py
 
